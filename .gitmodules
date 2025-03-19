@@ -1,0 +1,6 @@
+[submodule "CitiGuide-Admin"]
+	path = CitiGuide-Admin
+	url = https://github.com/MohsinKhanAptech/CitiGuide-Admin.git
+[submodule "CitiGuide-User"]
+	path = CitiGuide-User
+	url = https://github.com/MohsinKhanAptech/CitiGuide-User.git
